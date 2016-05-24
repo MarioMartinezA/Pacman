@@ -1,0 +1,15 @@
+﻿  Main.cpp
+c:\users\carbo\documents\project\zombie\zombie-game\player.h(37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\carbo\documents\project\zombie\zombie-game\enemy.h(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\carbo\documents\project\zombie\zombie-game\enemy.h(35): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+c:\users\carbo\documents\project\zombie\zombie-game\statusbar.h(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\carbo\documents\project\zombie\zombie-game\statusbar.h(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\carbo\documents\project\zombie\zombie-game\main.cpp(55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\carbo\documents\project\zombie\zombie-game\main.cpp(61): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\carbo\documents\project\zombie\zombie-game\main.cpp(62): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\carbo\documents\project\zombie\zombie-game\main.cpp(90): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\carbo\documents\project\zombie\zombie-game\main.cpp(91): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\carbo\documents\project\zombie\zombie-game\main.cpp(228): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\carbo\documents\project\zombie\zombie-game\main.cpp(312): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\carbo\documents\project\zombie\zombie-game\main.cpp(381): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFMLConfig.vcxproj -> C:\Users\carbo\Documents\Project\zombie\Zombie-Game\Debug\SFMLConfig.exe
